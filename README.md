@@ -1,3 +1,7 @@
+<!-- 주석 -->
+Live in Korea
+🌱 I’m currently learning C++
+
 ## Hi there 👋
 
 <!--
